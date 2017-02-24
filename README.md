@@ -1,1 +1,3 @@
-# reflectinsight-listeners-applicationinsights
+# ReflectInsight.Listeners.ApplicationInsights
+
+**Help wanted!** 
